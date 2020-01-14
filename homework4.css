@@ -1,0 +1,42 @@
+.start {
+  background-color: yellow;
+}
+.report {
+  background: whitesmoke;
+  width: 70vw;
+
+  border: dashed;
+  color: grey;
+  font-size: 10px;
+}
+#a1 {
+  width: 400px;
+  height: 30px;
+}
+#a2 {
+  width: 400px;
+  height: 30px;
+}
+#a3 {
+  width: 400px;
+  height: 30px;
+}
+#a4 {
+  width: 400px;
+  height: 30px;
+}
+.container{
+  background: green;
+}
+.topic{
+  color:yellow;
+}
+.end{
+  color:yellow;
+}
+.alert{
+  color:red;
+}
+.questionarea{
+  color:yellow;
+}
